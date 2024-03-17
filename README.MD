@@ -19,7 +19,7 @@ As a way of learning and improving my skills I am creating this repo containing 
 I will replicate and create similar UI/UX experience from popular pages and cool features and mechanics from existing games and applications.
 My goal is to use as less as possible external frameworks and libraries in order to understand how things works. 
 ## Front end Project
-- <a hred="https://github.com/shakedlv/learning-path-projects/tree/main/wellfound-header"> Wellfound Header</a>
+- <a href="https://github.com/shakedlv/learning-path-projects/tree/main/wellfound-header"> Wellfound Header</a>
 ## Back end Project
 - 
 ## Full stack end Project
