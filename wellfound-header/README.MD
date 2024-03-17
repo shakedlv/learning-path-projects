@@ -12,6 +12,7 @@
 
 
 ## :star2: About the Project
+Learning path 
 ### :space_invader: Tech Stack
 <details> <summary>Client</summary> <ul>
 <li><a href="">JS</a></li>
